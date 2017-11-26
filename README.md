@@ -128,4 +128,6 @@ The most import tool of a developer. If you are still using *Notepad* on your wi
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers.
 
 
+[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
